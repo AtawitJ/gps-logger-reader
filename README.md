@@ -1,6 +1,6 @@
 # gps-logger-reader
 
-A Python module for reading and processing GPS / Gyroscope logger data via serial connection.  
+A Python module for reading and processing Aaronia GPS logger data via serial connection.  
 Includes filtering (low-pass) for compass and tilt values.
 
 ---
