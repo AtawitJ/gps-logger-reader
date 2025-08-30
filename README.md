@@ -9,7 +9,6 @@ Includes filtering (low-pass) for compass and tilt values.
 - Auto-detect serial port of GPS/Gyro device
 - Reads NMEA `$PAAG` data frames
 - Low-pass filter applied to compass and tilt values
-- Thread-safe reader with start/stop
 - Average tilt smoothing
 - Example usage provided
 
