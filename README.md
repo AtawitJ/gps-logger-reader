@@ -17,6 +17,6 @@ Includes filtering (low-pass) for compass and tilt values.
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/gps-logger-reader.git
+git clone https://github.com/AtawitJ/gps-logger-reader.git
 cd gps-logger-reader
 pip install -e .
